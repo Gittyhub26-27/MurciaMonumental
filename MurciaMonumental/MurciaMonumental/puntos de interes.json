@@ -1,0 +1,373 @@
+{
+  "version": "1.0.0",
+  "ciudad_principal": "Murcia, España",
+  "puntos_de_interes": [
+    {
+      "uuid": "poi-murcia-001",
+      "nombre": "Catedral de Santa María en Murcia",
+      "descripcion": "Principal templo y sede de la diócesis de Cartagena, famosa por su imponente fachada barroca y su esbelta torre campanario de 93 metros de altura.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=800&q=80"
+      ],
+      "url_web_oficial": "https://www.catedralmurcia.com",
+      "ubicacion": {
+        "latitud": 37.9838,
+        "longitud": -1.1293
+      },
+      "opiniones": [
+        {
+          "texto": "Una obra maestra del barroco español. La torre es impresionante por dentro y por fuera.",
+          "autor": "María Dolores Gómez",
+          "fecha": "2026-10-14",
+          "puntos": 5
+        },
+        {
+          "texto": "Imprescindible visitar la capilla de los Vélez. Muy bien conservada.",
+          "autor": "Carlos S.",
+          "fecha": "2026-09-28",
+          "puntos": 4
+        }
+      ],
+      "favorito": true,
+      "accesibilidad": {
+        "rampa_acceso": true,
+        "bano_adaptado": false,
+        "audioguia_disponible": true,
+        "ascensor": false,
+        "observaciones": "Acceso principal adaptado mediante rampa móvil; algunas capillas interiores tienen pequeños escalones."
+      },
+      "horario_apertura": "Lunes a Sábado de 08:30 a 13:00 y de 17:00 a 20:00. Domingos de 09:30 a 13:30 y de 18:00 a 20:00.",
+      "informacion_adicional": {
+        "tipo": "Monumento Histórico-Artístico",
+        "precio_entrada_general": "Gratuito (Subida a torre de pago)",
+        "tiempo_estimado_visita_minutos": 60,
+        "etiquetas": ["arquitectura", "barroco", "religión", "emblema"]
+      }
+    },
+    {
+      "uuid": "poi-murcia-002",
+      "nombre": "Real Casino de Murcia",
+      "descripcion": "Edificio histórico situado en la calle Trapería que combina múltiples corrientes arquitectónicas, destacando su espectacular patio árabe inspirado en la Alhambra.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1582555172866-f73bb12a2ab3?auto=format&fit=crop&w=800&q=80"
+      ],
+      "url_web_oficial": "https://www.realcasinodemurcia.com",
+      "ubicacion": {
+        "latitud": 37.9852,
+        "longitud": -1.1287
+      },
+      "opiniones": [
+        {
+          "texto": "El patio árabe te deja sin palabras. Es como viajar a Granada sin salir de Murcia.",
+          "autor": "Javier Pérez",
+          "fecha": "2026-11-02",
+          "puntos": 5
+        }
+      ],
+      "favorito": true,
+      "accesibilidad": {
+        "rampa_acceso": true,
+        "bano_adaptado": true,
+        "audioguia_disponible": true,
+        "ascensor": true,
+        "observaciones": "Completamente accesible para personas con movilidad reducida."
+      },
+      "horario_apertura": "Lunes a Domingo de 10:00 a 19:00.",
+      "informacion_adicional": {
+        "tipo": "Casino Cultural / Arquitectura Civil",
+        "precio_entrada_general": "5.00 EUR",
+        "tiempo_estimado_visita_minutos": 45,
+        "etiquetas": ["modernismo", "patio árabe", "turismo cultural"]
+      }
+    },
+    {
+      "uuid": "poi-murcia-003",
+      "nombre": "Teatro Romea",
+      "descripcion": "El teatro principal de la ciudad de Murcia, inaugurado en el siglo XIX y conocido por su icónica fachada ecléctica con bustos de compositores célebres.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=800&q=80"
+      ],
+      "url_web_oficial": "https://www.teatromea.es",
+      "ubicacion": {
+        "latitud": 37.9864,
+        "longitud": -1.1301
+      },
+      "opiniones": [
+        {
+          "texto": "Gran programación cultural y un edificio precioso por fuera y por dentro.",
+          "autor": "Lucía Martínez",
+          "fecha": "2026-08-19",
+          "puntos": 5
+        }
+      ],
+      "favorito": false,
+      "accesibilidad": {
+        "rampa_acceso": true,
+        "bano_adaptado": true,
+        "audioguia_disponible": false,
+        "ascensor": true,
+        "observaciones": "Dispone de localidades reservadas para personas en silla de ruedas."
+      },
+      "horario_apertura": "Lunes a viernes de 11:00 a 13:30 y de 17:30 a 20:30 (días de función hasta el inicio de la misma).",
+      "informacion_adicional": {
+        "tipo": "Espacio Escénico",
+        "precio_entrada_general": "Variable según función",
+        "tiempo_estimado_visita_minutos": 90,
+        "etiquetas": ["teatro", "cultura", "siglo XIX"]
+      }
+    },
+    {
+      "uuid": "poi-murcia-004",
+      "nombre": "Santuario de Nuestra Señora de la Fuensanta",
+      "descripcion": "Santuario de peregrinación situado en el monte El Valle (Algezares), desde donde se divisan unas vistas panorámicas excepcionales de toda la huerta de Murcia.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1548625361-16945037d00f?auto=format&fit=crop&w=800&q=80"
+      ],
+      "url_web_oficial": "https://www.santuariofuensanta.com",
+      "ubicacion": {
+        "latitud": 37.9221,
+        "longitud": -1.1034
+      },
+      "opiniones": [
+        {
+          "texto": "Las vistas de la ciudad desde arriba son increíbles. Muy recomendable subir al atardecer.",
+          "autor": "Pedro Antonio",
+          "fecha": "2026-10-30",
+          "puntos": 5
+        }
+      ],
+      "favorito": false,
+      "accesibilidad": {
+        "rampa_acceso": false,
+        "bano_adaptado": false,
+        "audioguia_disponible": false,
+        "ascensor": false,
+        "observaciones": "Acceso complejo debido a pendientes pronunciadas y escalinatas en el santuario."
+      },
+      "horario_apertura": "Lunes a Domingo de 09:00 a 13:30 y de 16:30 a 20:00.",
+      "informacion_adicional": {
+        "tipo": "Santuario / Religioso",
+        "precio_entrada_general": "Gratuito",
+        "tiempo_estimado_visita_minutos": 50,
+        "etiquetas": ["naturaleza", "mirador", "tradición", "santuario"]
+      }
+    },
+    {
+      "uuid": "poi-murcia-005",
+      "nombre": "Museo Salzillo",
+      "descripcion": "Museo monográfico que alberga la obra procesional del insigne escultor barroco murciano Francisco Salzillo, incluyendo los incomparables pasos de Semana Santa.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1565008447742-97f6f38c985c?auto=format&fit=crop&w=800&q=80"
+      ],
+      "url_web_oficial": "https://www.museosalzillo.es",
+      "ubicacion": {
+        "latitud": 37.9791,
+        "longitud": -1.1332
+      },
+      "opiniones": [
+        {
+          "texto": "Los detalles de las figuras talladas en madera son una auténtica obra de arte. Imprescindible.",
+          "autor": "Elena R.",
+          "fecha": "2026-06-12",
+          "puntos": 5
+        }
+      ],
+      "favorito": true,
+      "accesibilidad": {
+        "rampa_acceso": true,
+        "bano_adaptado": true,
+        "audioguia_disponible": true,
+        "ascensor": true,
+        "observaciones": "Espacios amplios y adaptados para sillas de ruedas."
+      },
+      "horario_apertura": "Martes a Sábado de 10:00 a 17:00. Domingos de 10:00 a 14:00. Lunes cerrado.",
+      "informacion_adicional": {
+        "tipo": "Museo de Arte",
+        "precio_entrada_general": "5.00 EUR",
+        "tiempo_estimado_visita_minutos": 60,
+        "etiquetas": ["arte sacro", "escultura", "salzillo", "semana santa"]
+      }
+    },
+    {
+      "uuid": "poi-murcia-006",
+      "nombre": "Puente de los Peligros (Puente Viejo)",
+      "descripcion": "Histórico puente de piedra sobre el río Segura que une el barrio del Carmen con el centro de la ciudad, caracterizado por albergar una hornacina con la Virgen de los Peligros.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1508873696983-2df5c920ac2c?auto=format&fit=crop&w=800&q=80"
+      ],
+      "url_web_oficial": "https://www.murcia.turismo.es",
+      "ubicacion": {
+        "latitud": 37.9805,
+        "longitud": -1.1302
+      },
+      "opiniones": [
+        {
+          "texto": "Un paseo clásico junto al río Segura. Ideal para hacer fotos de la ciudad vieja.",
+          "autor": "David M.",
+          "fecha": "2026-07-04",
+          "puntos": 4
+        }
+      ],
+      "favorito": false,
+      "accesibilidad": {
+        "rampa_acceso": true,
+        "bano_adaptado": false,
+        "audioguia_disponible": false,
+        "ascensor": false,
+        "observaciones": "Vía peatonal con aceras anchas, aunque el pavimento adoquinado puede ser irregular."
+      },
+      "horario_apertura": "Abierto 24 horas (Acceso libre)",
+      "informacion_adicional": {
+        "tipo": "Monumento / Infraestructura histórica",
+        "precio_entrada_general": "Gratuito",
+        "tiempo_estimado_visita_minutos": 20,
+        "etiquetas": ["río segura", "puente", "historia urbana"]
+      }
+    },
+    {
+      "uuid": "poi-murcia-007",
+      "nombre": "Plaza de las Flores",
+      "descripcion": "Uno de los enclaves más animados y concurridos de Murcia, rodeado de edificios modernistas y repletos de terrazas donde degustar la gastronomía local y las famosas marineras.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80"
+      ],
+      "url_web_oficial": "https://www.murcia.es",
+      "ubicacion": {
+        "latitud": 37.9842,
+        "longitud": -1.1311
+      },
+      "opiniones": [
+        {
+          "texto": "El mejor sitio de Murcia para tomar unas cañas y comer una buena marinera al sol.",
+          "autor": "Sofía Navarro",
+          "fecha": "2026-11-10",
+          "puntos": 5
+        }
+      ],
+      "favorito": true,
+      "accesibilidad": {
+        "rampa_acceso": true,
+        "bano_adaptado": false,
+        "audioguia_disponible": false,
+        "ascensor": false,
+        "observaciones": "Plaza peatonal llana, muy accesible, aunque las terrazas pueden estar concurridas."
+      },
+      "horario_apertura": "Abierto 24 horas (Horario variable según los establecimientos de hostelería)",
+      "informacion_adicional": {
+        "tipo": "Plaza Pública / Gastronomía",
+        "precio_entrada_general": "Gratuito",
+        "tiempo_estimado_visita_minutos": 45,
+        "etiquetas": ["tapas", "ambiente", "gastronomía", "centro"]
+      }
+    },
+    {
+      "uuid": "poi-murcia-008",
+      "nombre": "Museo de Bellas Artes de Murcia (MUBAM)",
+      "descripcion": "Museo público que recopila una excelente colección de pintura, escultura y artes decorativas desde el siglo XVI hasta el arte contemporáneo, con especial atención a artistas regionales.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1566127444979-b3d2b65463d7?auto=format&fit=crop&w=800&q=80"
+      ],
+      "url_web_oficial": "https://www.museosregiondemurcia.es",
+      "ubicacion": {
+        "latitud": 37.9892,
+        "longitud": -1.1275
+      },
+      "opiniones": [
+        {
+          "texto": "Entrada gratuita y exposiciones temporales muy cuidadas. Vale la pena visitarlo.",
+          "autor": "Andrés Gómez",
+          "fecha": "2026-05-15",
+          "puntos": 4
+        }
+      ],
+      "favorito": false,
+      "accesibilidad": {
+        "rampa_acceso": true,
+        "bano_adaptado": true,
+        "audioguia_disponible": false,
+        "ascensor": true,
+        "observaciones": "Edificio perfectamente adaptado para visitantes con movilidad reducida."
+      },
+      "horario_apertura": "Martes a Sábado de 10:00 a 14:00 y de 17:00 a 20:00. Domingos de 10:00 a 14:00.",
+      "informacion_adicional": {
+        "tipo": "Museo",
+        "precio_entrada_general": "Gratuito",
+        "tiempo_estimado_visita_minutos": 60,
+        "etiquetas": ["pintura", "arte", "cultura murciana"]
+      }
+    },
+    {
+      "uuid": "poi-murcia-009",
+      "nombre": "Jardín de Floridablanca",
+      "descripcion": "El jardín público más antiguo de la ciudad de Murcia y de España, situado en el barrio del Carmen, famoso por sus impresionantes ficus centenarios de raíces aéreas gigantescas.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?auto=format&fit=crop&w=800&q=80"
+      ],
+      "url_web_oficial": "https://www.murcia.es",
+      "ubicacion": {
+        "latitud": 37.9772,
+        "longitud": -1.1309
+      },
+      "opiniones": [
+        {
+          "texto": "Ver los ficus gigantes en persona impresiona muchísimo. Un remanso de paz en medio de la ciudad.",
+          "autor": "Carmen Rosa",
+          "fecha": "2026-09-11",
+          "puntos": 5
+        }
+      ],
+      "favorito": false,
+      "accesibilidad": {
+        "rampa_acceso": true,
+        "bano_adaptado": false,
+        "audioguia_disponible": false,
+        "ascensor": false,
+        "observaciones": "Paseos llanos pavimentados, aunque algunas raíces superficiales de los árboles grandes pueden sobresalir."
+      },
+      "horario_apertura": "Abierto 24 horas todos los días del año.",
+      "informacion_adicional": {
+        "tipo": "Parque / Jardín Botánico",
+        "precio_entrada_general": "Gratuito",
+        "tiempo_estimado_visita_minutos": 30,
+        "etiquetas": ["naturaleza", "ficus", "parque histórico"]
+      }
+    },
+    {
+      "uuid": "poi-murcia-010",
+      "nombre": "Yacimiento Arqueológico de San Esteban",
+      "descripcion": "Complejo arqueológico de época andalusí (arrabal bajomedieval) de gran relevancia internacional, que cuenta con palacios, mezquita y sistemas de canalización.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1599809288736-23999971572d?auto=format&fit=crop&w=800&q=80"
+      ],
+      "url_web_oficial": "https://www.murcia.es",
+      "ubicacion": {
+        "latitud": 37.9898,
+        "longitud": -1.1350
+      },
+      "opiniones": [
+        {
+          "texto": "Una joya de la arqueología islámica en pleno centro urbano. Muy interesante de ver.",
+          "autor": "Tomás Ruiz",
+          "fecha": "2026-07-22",
+          "puntos": 4
+        }
+      ],
+      "favorito": false,
+      "accesibilidad": {
+        "rampa_acceso": true,
+        "bano_adaptado": false,
+        "audioguia_disponible": true,
+        "ascensor": false,
+        "observaciones": "Pasarelas elevadas habilitadas para la observación segura del yacimiento."
+      },
+      "horario_apertura": "Consultar visitas guiadas concertadas en la oficina de turismo municipal.",
+      "informacion_adicional": {
+        "tipo": "Yacimiento Arqueológico / Patrimonio",
+        "precio_entrada_general": "Gratuito (previa reserva si aplica)",
+        "tiempo_estimado_visita_minutos": 40,
+        "etiquetas": ["arqueología", "historia islámica", "patrimonio"]
+      }
+    }
+  ]
+}
